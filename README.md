@@ -5,5 +5,5 @@ For more information, please see the
 
 ## Files
 The following files are important for the assignment:
-- hw02_schaub.md
-- hw02_schaub.Rmd
+- hw02_schaub.md : shows the R code and output
+- hw02_schaub.Rmd : shows the R code only
